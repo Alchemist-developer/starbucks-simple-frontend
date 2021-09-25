@@ -13,7 +13,7 @@
 
 # Gratidão por cada mínimo aprendizado
 
-</div align=center>
+</div align="center">
 <li>Repositório de: github.com/alchemist-developer
 </li>
 
