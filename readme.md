@@ -1,8 +1,8 @@
-<header align="center">
+<div align="center">
 
 # Alchemist-developer / Adryel Simon #
 
-</header>
+</div>
 <div align="center">
 <br># Clone Starbucks Web Page #
 <br>
