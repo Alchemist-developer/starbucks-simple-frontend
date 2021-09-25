@@ -13,10 +13,10 @@
 
 # Gratidão por cada mínimo aprendizado
 
-</div>
+</div align=center>
 <li>Repositório de: github.com/alchemist-developer
 </li>
 
-<a href="https://www.linkedin.com/in/adryelsimon"><li> Meu Linkedin</li></a>
+<a href="https://www.linkedin.com/in/adryelsimon"><li> Meu Linkedin</li></a></div>
 
 
