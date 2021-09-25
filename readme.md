@@ -11,9 +11,9 @@
 <li>Using only HTML and CSS</li></div>
 <br><div align="center">
 
-# Gratidão por cada mínimo aprendizado
+# Gratidão por cada mínimo aprendizado</div>
 
-</div align="center">
+<div align="center">
 <li>Repositório de: github.com/alchemist-developer
 </li>
 
